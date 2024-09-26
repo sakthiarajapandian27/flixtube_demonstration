@@ -108,7 +108,7 @@ async function main() {
     // Starts the HTTP server.
     //
     app.listen(PORT, () => {
-        console.log("Microservice online.");
+        console.log("Microservice online...");
     });
 }
 
